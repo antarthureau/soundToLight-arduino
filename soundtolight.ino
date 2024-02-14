@@ -1,6 +1,6 @@
 float inputSignal;
 float outputSignal;
-int delayTime = 10;
+int delayTime = 100;
 int inA = 0;
 int inB = 1;
 int inC = 2;
